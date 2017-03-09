@@ -1,0 +1,10 @@
+# exclude everything except directory foo/bar
+#!/foo
+#/foo/*
+#!/foo/bar
+/*
+!.gitignore
+!my.bat
+!package.json
+!README.me
+!childprocess.js
