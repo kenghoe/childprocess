@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "child-process": "^1.0.2",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
     "tracer": "^0.8.7"
   }
 }
