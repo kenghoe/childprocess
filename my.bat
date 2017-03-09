@@ -1,1 +1,1 @@
-dir /od
+dir

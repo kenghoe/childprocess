@@ -12,6 +12,7 @@
     "child-process": "^1.0.2",
     "express": "^4.15.2",
     "express-handlebars": "^3.0.0",
-    "tracer": "^0.8.7"
+    "tracer": "^0.8.7",
+    "util": "^0.10.3"
   }
 }
